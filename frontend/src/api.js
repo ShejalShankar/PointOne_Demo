@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:8000";
+const BASE_URL = "https://pointonedemo-production.up.railway.app";
 
 export async function generateEntries(notes, tone = "concise") {
   const response = await axios.post(`${BASE_URL}/generate`, {
