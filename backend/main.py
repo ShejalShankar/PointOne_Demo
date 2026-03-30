@@ -22,7 +22,7 @@ import anthropic
 from models import GenerateRequest, GenerateResponse, TimeEntry, ErrorResponse
 from prompt_engine import build_prompt, build_user_message
 from dotenv import load_dotenv
-load_dotenv()
+load_dotenv(override=False)
 
 app = FastAPI(
     title="PointOne Time Entry API",
