@@ -1,6 +1,7 @@
 # AI-powered legal time entry generation 
 A working demo of AI-powered legal time entry generation — built in a weekend to demonstrate deep understanding of PointOne's core product.
-## 🔗 Live Demo: point-one-demo.vercel.app
+### 🔗 Live Demo: 
+<a href="point-one-demo.vercel.app"> Click here for a Demo</a>
 ## What It Does
 Lawyers spend an average of 30 minutes per day manually tracking billable time — and lose ~10% of billable hours in the process. PointOne solves this with AI.
 This demo replicates that core workflow:
@@ -42,4 +43,19 @@ Narrative: Drafted responsive correspondence to opposing counsel regarding disco
 - Frontend: Next.js, TypeScript, TailwindCSS
 - AI: Anthropic Claude API (claude-sonnet)
 - Deployment: Vercel, Railway
+
+#### Running Locally
+# Clone the repo
+git clone https://github.com/ShejalShankar/PointOne_Demo
+
+#### Install dependencies
+cd PointOne_Demo
+npm install
+
+#### Add your Anthropic API key
+echo "ANTHROPIC_API_KEY=your_key_here" > .env.local
+
+#### Run development server
+npm run dev
+
 
