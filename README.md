@@ -17,18 +17,18 @@ Quick call with partner to discuss strategy.
 
 ### Output:
 #### Entry 1
-Date: 03/29/2026
-Task Code: L160 (Settlement & Negotiation)
-Activity Code: A104 (Review & Analyze)
-Hours: 0.5
-Narrative: Reviewed settlement agreement and identified concerns regarding indemnification clause provisions.
+- Date: 03/29/2026 
+- Task Code: L160 (Settlement & Negotiation)
+- Activity Code: A104 (Review & Analyze)
+- Hours: 0.5
+- Narrative: Reviewed settlement agreement and identified concerns regarding indemnification clause provisions.
            
            
 #### Entry 2
-Task Code: L210 (Pleadings)  
-Activity Code: A103 (Draft/Revise)
-Hours: 1.0
-Narrative: Drafted responsive correspondence to opposing counsel regarding discovery schedule and deadlines.
+- Task Code: L210 (Pleadings)  
+- Activity Code: A103 (Draft/Revise)
+- Hours: 1.0
+- Narrative: Drafted responsive correspondence to opposing counsel regarding discovery schedule and deadlines.
 
 ## Features
 - AI-powered parsing — Claude extracts multiple distinct activities from a single block of notes
