@@ -1,13 +1,14 @@
 # AI-powered legal time entry generation 
 A working demo of AI-powered legal time entry generation — built in a weekend to demonstrate deep understanding of PointOne's core product.
 ### 🔗 Live Demo: 
-<a href="point-one-demo.vercel.app"> Click here for a Demo</a>
+https://point-one-demo.vercel.app
 ## What It Does
 Lawyers spend an average of 30 minutes per day manually tracking billable time — and lose ~10% of billable hours in the process. PointOne solves this with AI.
 This demo replicates that core workflow:
 Paste messy lawyer notes — raw, unformatted, how attorneys actually write
 Claude parses and structures them — identifying activities, durations, and matter types
 Clean LEDES-formatted time entries appear — with ABA task codes, activity codes, and editable fields ready to submit
+
 ## Example
 ### Input:
 Reviewed settlement agreement with client, flagged indemnification clause. 
