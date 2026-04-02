@@ -45,8 +45,8 @@ Quick call with partner to discuss strategy.
 - AI: Anthropic Claude API (claude-sonnet)
 - Deployment: Vercel, Railway
 
-#### Running Locally
-# Clone the repo
+## Running Locally
+#### Clone the repo
 git clone https://github.com/ShejalShankar/PointOne_Demo
 
 #### Install dependencies
